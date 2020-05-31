@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Perrottacooking/bottube/issues"
   },
-  "homepage": "https://github.com/Perrottacooking/bottube#readme"
+  "homepage": "https://github.com/Perrottacooking/bottube#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
